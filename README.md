@@ -7,4 +7,5 @@ page scraper test
 - $ python3 -m venv env
 - $ source env/bin/activate
 - $ vim .env
+- $ pip install -r requirements.txt
 - $ python main.py <ip>
