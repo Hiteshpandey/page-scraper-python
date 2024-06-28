@@ -6,4 +6,5 @@ page scraper test
 - $ cd page-scraper-python
 - $ python3 -m venv env
 - $ source env/bin/activate
+- $ vim .env
 - $ python main.py <ip>
